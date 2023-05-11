@@ -95,7 +95,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bits-and-blooms/bitset v1.3.1 // indirect
 	github.com/bits-and-blooms/bloom/v3 v3.3.1 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/getsentry/sentry-go v0.16.0 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.1 // indirect
@@ -208,7 +208,7 @@ require (
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.uber.org/zap v1.23.0 // indirect
 	goftp.io/server/v2 v2.0.0 // indirect
-	golang.org/x/crypto v0.3.0 // indirect
+	golang.org/x/crypto v0.3.1-0.20221117191849-2c476679df9a // indirect
 	golang.org/x/exp v0.0.0-20221230185412-738e83a70c30
 	golang.org/x/mod v0.6.0 // indirect
 	golang.org/x/sys v0.4.0 // indirect
